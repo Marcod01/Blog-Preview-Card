@@ -53,6 +53,12 @@ body {
     font-weight: 800;
 }
 
+.blog-heading:hover {
+    color: hsl(47, 88%, 63%); 
+    transform: scale(1.05); 
+    cursor: pointer;
+}
+
 .post-description{
     font-size: .79em;
     color: hsl(0, 0%, 50%);
@@ -75,3 +81,4 @@ body {
     font-weight: 800;
     margin-left: 10px; 
 }
+
